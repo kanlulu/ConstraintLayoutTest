@@ -1,4 +1,4 @@
-﻿### 【Android约束布局ConstraintLayout的基本使用】(https://blog.csdn.net/qq_36046305/article/details/85164303)
+﻿### [Android约束布局ConstraintLayout的基本使用](https://blog.csdn.net/qq_36046305/article/details/85164303)
 
 约束布局`ConstraintLayout`面世已有很长一段时间了，但我一直没有关注这个Android 中继五大布局后的新布局的使用。近日在网友的讨论的强烈推荐下，尝试了`ConstraintLayout`。使用之后的最大感触就是：为什么我不早点在项目中尝试`ConstraintLayout`！！！
 
